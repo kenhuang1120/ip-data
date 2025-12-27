@@ -1,0 +1,30 @@
+{
+    "tw": {
+        "version": 20251227,
+        "url": "https://github.com/kenhuang1120/ip-data/raw/main/tw.csv.enc",
+        "filename": "tw.csv",
+        "md5_enc": "124f1fe81e7be873529b167a9cc7fc48",
+        "md5_source": "c8e7b80094a48a5d54393ab3b16962af"
+    },
+    "school": {
+        "version": 20251227,
+        "url": "https://github.com/kenhuang1120/ip-data/raw/main/school.csv.enc",
+        "filename": "school.csv",
+        "md5_enc": "d88e8e25b0f9b483680c1a16c0a61e60",
+        "md5_source": "068691849288ab026fc486937beaeeaa"
+    },
+    "en2tw": {
+        "version": 20251227,
+        "url": "https://github.com/kenhuang1120/ip-data/raw/main/en2tw.csv.enc",
+        "filename": "en2tw.csv",
+        "md5_enc": "c20f8061dc39402b996b80b82ce99385",
+        "md5_source": "9fedaa2a7ae2db77f48afbb557cb4af4"
+    },
+    "country": {
+        "version": 20251227,
+        "url": "https://github.com/kenhuang1120/ip-data/raw/main/country.mmdb.enc",
+        "filename": "country.mmdb",
+        "md5_enc": "6019f4d24b27130bf0eada9ccaeed40f",
+        "md5_source": "98f327135c509e71f47df651cee7605d"
+    }
+}
