@@ -1,5 +1,5 @@
 {
-    "latest_version": 20251227,
+    "latest_version": 20260106,
     "files": {
         "tw": {
             "version": 20251227,
@@ -9,11 +9,11 @@
             "md5_source": "c8e7b80094a48a5d54393ab3b16962af"
         },
         "school": {
-            "version": 20251227,
+            "version": 20260106,
             "url": "https://github.com/kenhuang1120/ip-data/raw/main/school.csv.enc",
             "filename": "school.csv",
-            "md5_enc": "d88e8e25b0f9b483680c1a16c0a61e60",
-            "md5_source": "068691849288ab026fc486937beaeeaa"
+            "md5_enc": "c761b193fbb7b361dc459210725ac575",
+            "md5_source": "95f8a9c6b1543cc7ed7f65c5118664ee"
         },
         "en2tw": {
             "version": 20251227,
@@ -23,11 +23,11 @@
             "md5_source": "9fedaa2a7ae2db77f48afbb557cb4af4"
         },
         "country": {
-            "version": 20251227,
+            "version": 20260102,
             "url": "https://github.com/kenhuang1120/ip-data/raw/main/country.mmdb.enc",
             "filename": "country.mmdb",
-            "md5_enc": "6019f4d24b27130bf0eada9ccaeed40f",
-            "md5_source": "98f327135c509e71f47df651cee7605d"
+            "md5_enc": "9c03905963cb00789454cb7b22e0e419",
+            "md5_source": "3539104a553de1aceab01c15597cf75c"
         }
     }
 }
