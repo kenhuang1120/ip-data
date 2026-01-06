@@ -1,5 +1,5 @@
 {
-    "latest_version": 20260106,
+    "latest_version": 20260107,
     "files": {
         "tw": {
             "version": 20251227,
@@ -9,11 +9,11 @@
             "md5_source": "c8e7b80094a48a5d54393ab3b16962af"
         },
         "school": {
-            "version": 20260106,
+            "version": 20260107,
             "url": "https://github.com/kenhuang1120/ip-data/raw/main/school.csv.enc",
             "filename": "school.csv",
-            "md5_enc": "018a129e40de88ccbf66f08da91aadc3",
-            "md5_source": "491abb2f28ee34e0ab51f09af2708678"
+            "md5_enc": "7d3ccb7ae66d6b81e4dfe4ab98c35ff1",
+            "md5_source": "7572e1982a073d7352982cfc736147a1"
         },
         "en2tw": {
             "version": 20251227,
